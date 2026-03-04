@@ -1,0 +1,41 @@
+store_id,store_name,city,state,region,store_size_sqft,store_type,opening_year
+1,M.S. Enterprise,Hyderabad,Telangana,South,2300,Standalone,2015
+2,Bengal Fashion Hub,Mumbai,Telangana,South,961,Standalone,2017
+3,Urban Trends Kolkata,Bangalore,Telangana,South,2781,Standalone,2021
+4,Nova Electronics,Hyderabad,Maharashtra,West,1795,Mall,2020
+5,Glow & Grace Cosmetics,Delhi,Karnataka,South,4142,Mall,2022
+6,Metro Garments,Bangalore,Karnataka,South,4598,High Street,2017
+7,TechNest Retail,Bangalore,West Bengal,East,2075,Mall,2015
+8,Sapphire Style Store,Hyderabad,Maharashtra,West,1816,Standalone,2020
+9,Eastern Lifestyle Mart,Durgapur,Tamil Nadu,South,1137,Standalone,2019
+10,CityLine Boutique,Delhi,Maharashtra,West,1678,Mall,2015
+11,Modern Mart,Hyderabad,Tamil Nadu,South,1876,Standalone,2017
+12,Style Junction,Delhi,West Bengal,East,4793,Standalone,2016
+13,TrendWave,Delhi,Delhi,North,1179,Mall,2018
+14,Elite Electronics,Bangalore,Karnataka,South,1292,Mall,2022
+15,Fashion Avenue,Mumbai,West Bengal,East,2862,Standalone,2021
+16,Cosmo Beauty,Delhi,Karnataka,South,4684,Standalone,2017
+17,UrbanCart,Chennai,Telangana,South,864,Standalone,2020
+18,Lifestyle Square,Bangalore,Delhi,North,3368,High Street,2022
+19,MegaTrend Store,Durgapur,Delhi,North,2827,High Street,2022
+20,NextGen Retail,Mumbai,West Bengal,East,3495,High Street,2022
+21,SmartBuy Plaza,Chennai,Delhi,North,2295,Mall,2015
+22,Heritage Fashions,Chennai,Tamil Nadu,South,1191,High Street,2018
+23,Daily Needs Mart,Durgapur,Delhi,North,4361,Mall,2015
+24,Prime Electronics,Mumbai,Karnataka,South,3078,Mall,2020
+25,Royal Style,Bangalore,Karnataka,South,3899,High Street,2015
+26,FreshGlow Cosmetics,Kolkata,Karnataka,South,1000,High Street,2016
+27,TrendSetter,Mumbai,Karnataka,South,3904,High Street,2018
+28,MetroCity Store,Durgapur,Tamil Nadu,South,3254,Standalone,2018
+29,Grand Lifestyle,Chennai,Maharashtra,West,4445,High Street,2020
+30,QuickShop Retail,Bangalore,Telangana,South,1604,Standalone,2021
+31,Starline Mart,Mumbai,West Bengal,East,3531,Mall,2016
+32,Infinity Fashion,Kolkata,Karnataka,South,3573,Standalone,2017
+33,FutureTech Store,Kolkata,Delhi,North,2370,High Street,2015
+34,Classic Trends,Delhi,Karnataka,South,3490,Mall,2019
+35,Beauty Bloom,Delhi,Delhi,North,4640,Mall,2015
+36,ElectroHub,Hyderabad,Telangana,South,1828,Mall,2022
+37,Urban Vogue,Durgapur,Telangana,South,1302,Standalone,2015
+38,Platinum Retail,Mumbai,Telangana,South,1670,High Street,2017
+39,CitySmart Store,Mumbai,Delhi,North,1006,Mall,2015
+40,Fashion Fiesta,Hyderabad,Karnataka,South,2284,Mall,2016
